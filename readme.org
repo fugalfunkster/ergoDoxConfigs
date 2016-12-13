@@ -1,0 +1,5 @@
+Ergodox Configs
+
+Made with: http://configure.ergodox-ez.com/
+
+Installed with: http://www.pjrc.com/teensy/loader_mac.html
